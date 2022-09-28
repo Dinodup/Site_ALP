@@ -104,17 +104,7 @@ h1
   {
       text-align: center;
   }
-  #a
-{
-    background-color:coral;
-    line-height: 30px;
-    list-style-position:inside;
-    text-align: center;
-    width: 65%;
-    border-radius: 25px;
-    text-align: center;
-    margin-left: 17%;
-}
+
 #b
 {
     background-color:coral;
@@ -256,6 +246,25 @@ footer
     border: solid 5px;
     font-size: 26px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#a
+{
+    background-color:coral;
+    line-height: 30px;
+    list-style-position:inside;
+    text-align: center;
+    width: 65%;
+    border-radius: 25px;
+    text-align: center;
+    margin-left: 17%;
+    margin-top: 40px;
+}
+
+#nome_perfil {
+    float: left;
+    
 }
     /******OBS********/
     
