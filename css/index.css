@@ -124,9 +124,8 @@ img
 }
 #sim
 {
-    padding-left: 350px;
     margin: 5px;
-    margin-left: 20px;
+    margin-left: 350px;
     width: 5%;
     height: 90px;
     float: left;

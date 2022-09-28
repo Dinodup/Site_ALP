@@ -1,2 +1,3 @@
 -ARRUMAR Filmes.html 
 -ADICIONAR TEXTO  (criaruras.html)
+-ARRUMAR ICONES REDES SOCIAIS

@@ -142,9 +142,8 @@ img:hover {
 }
 #sim
 {
-    padding-left: 350px;
     margin: 5px;
-    margin-left: 20px;
+    margin-left: 350px;
     width: 5%;
     height: 90px;
     float: left;
@@ -295,8 +294,8 @@ img
 }
 #sim
 {
-    padding-left: 30px;
     margin: 1px;
+    margin-left: 30px;
     width: 18%;
     clear: right;
     height: 46px;
